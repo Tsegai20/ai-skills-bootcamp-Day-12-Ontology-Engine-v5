@@ -1,4 +1,5 @@
-<img width="953" height="448" alt="Screenshot 2026-10-23 181302" src="https://github.com/user-attachments/assets/5a9c8e92-060b-495d-9ccd-6283becd7074" />
+<img width="956" height="446" alt="Screenshot 2026-10-23 181351" src="https://github.com/user-attachments/assets/9af14a5b-8f8f-4574-a513-1eed9e57601f" />
+
 
 
 # Ontology Engine v5
