@@ -1,3 +1,6 @@
+<img width="953" height="448" alt="Screenshot 2026-10-23 181302" src="https://github.com/user-attachments/assets/5a9c8e92-060b-495d-9ccd-6283becd7074" />
+
+
 # Ontology Engine v5
 
 **An AI-powered knowledge graph builder and research assistant for autonomous mobility domains.**
